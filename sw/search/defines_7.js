@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['neorv32_5farchid_0',['NEORV32_ARCHID',['../neorv32_8h.html#a9bf34265291c07e2aadeaf59e81768ca',1,'neorv32.h']]],
+  ['neorv32_5fcfs_1',['NEORV32_CFS',['../neorv32_8h.html#a6c101b306bd096f78d351e39b308d3e2',1,'neorv32.h']]],
+  ['neorv32_5fdm_2',['NEORV32_DM',['../neorv32_8h.html#a9de020f1ce7c4e26d4b3604b1bd6e811',1,'neorv32.h']]],
+  ['neorv32_5fgpio_3',['NEORV32_GPIO',['../neorv32_8h.html#a1e35bbf26b9d1aa5373af0b9468eb445',1,'neorv32.h']]],
+  ['neorv32_5fmtime_4',['NEORV32_MTIME',['../neorv32_8h.html#a68935be182e0081039326a9f344a36b3',1,'neorv32.h']]],
+  ['neorv32_5fneoled_5',['NEORV32_NEOLED',['../neorv32_8h.html#a3ccc1097bc70f92235d693b612fa994a',1,'neorv32.h']]],
+  ['neorv32_5fpwm_6',['NEORV32_PWM',['../neorv32_8h.html#ad4cb534c29e26fa56c10bef7afab8f51',1,'neorv32.h']]],
+  ['neorv32_5frte_5fnum_5ftraps_7',['NEORV32_RTE_NUM_TRAPS',['../neorv32__rte_8h.html#ad14a1ca41df1e9300bfd01aef07dce59',1,'neorv32_rte.h']]],
+  ['neorv32_5fslink_8',['NEORV32_SLINK',['../neorv32_8h.html#a6380d894432de119a20993096db534df',1,'neorv32.h']]],
+  ['neorv32_5fspi_9',['NEORV32_SPI',['../neorv32_8h.html#a5f3afc4e268670c54d90df67fa38ca22',1,'neorv32.h']]],
+  ['neorv32_5fsysinfo_10',['NEORV32_SYSINFO',['../neorv32_8h.html#a140e23434ef7e85b2b38d8ae9695227b',1,'neorv32.h']]],
+  ['neorv32_5ftrng_11',['NEORV32_TRNG',['../neorv32_8h.html#a9794ff3746eb5321ad9c2bf522ea26dd',1,'neorv32.h']]],
+  ['neorv32_5ftwi_12',['NEORV32_TWI',['../neorv32_8h.html#a2769c2fe5e0de01b12fe4a5fad029768',1,'neorv32.h']]],
+  ['neorv32_5fuart0_13',['NEORV32_UART0',['../neorv32_8h.html#a4c880a6b27e46f459e750425258b1bdb',1,'neorv32.h']]],
+  ['neorv32_5fuart1_14',['NEORV32_UART1',['../neorv32_8h.html#aa2a9ded4523f001bf69935c80247fa2d',1,'neorv32.h']]],
+  ['neorv32_5fwdt_15',['NEORV32_WDT',['../neorv32_8h.html#a78615b08cd799063011606d084fef46c',1,'neorv32.h']]],
+  ['neorv32_5fxirq_16',['NEORV32_XIRQ',['../neorv32_8h.html#a0c0886139e9837867202e5f6a83307c4',1,'neorv32.h']]],
+  ['num_5fcells_5fx_17',['NUM_CELLS_X',['../game__of__life_2main_8c.html#a78c5b500f0f057bcaedf6fedeca7c537',1,'main.c']]],
+  ['num_5fcells_5fy_18',['NUM_CELLS_Y',['../game__of__life_2main_8c.html#aed77778557404b38bebb05b5830368b4',1,'main.c']]],
+  ['num_5fleds_5f24bit_19',['NUM_LEDS_24BIT',['../demo__neopixel_2main_8c.html#aa1dddb8d6b3b4d2f19afc3c09e2ff572',1,'main.c']]],
+  ['num_5ftest_5fcases_20',['NUM_TEST_CASES',['../bitmanip__test_2main_8c.html#a83792c34853f1d2801b59ad46adc7e1e',1,'NUM_TEST_CASES():&#160;main.c'],['../floating__point__test_2main_8c.html#a83792c34853f1d2801b59ad46adc7e1e',1,'NUM_TEST_CASES():&#160;main.c']]]
+];
